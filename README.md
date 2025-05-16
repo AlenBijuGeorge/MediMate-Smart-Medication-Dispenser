@@ -39,9 +39,16 @@ MediMate is an IoT-powered smart medication dispensing system designed to assist
 
 ---
 
-## 🖥️ Dashboard Preview
+>Here are some prototype and dashboard visuals from MediMate:
 
-> Add screenshots or GIFs of your custom HTML/CSS/JS dashboard here
+### 🖼️ Physical Prototype
+![MediMate Dispenser](images/medimate.jpg)
+![Mechanical Diagram in fusion](images/mechanical_diagram.jpg)
+![PCB design](images/pcb.jpg)
+
+### 💻 Dashboard UI
+![Login Page](images/homepage.png)
+![Dashboard Main Screen](images/homepage.png)
 
 ---
 
